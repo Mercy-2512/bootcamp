@@ -1,0 +1,29 @@
+body{
+    background: url(back.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: absolute;
+    font-family: 'Playfair Display', serif;
+}
+div{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    display: block;
+    border: 10px solid  black;
+    left:350px;
+    padding: 100px;
+    bottom:400px;
+    font-size: medium;
+    font-weight: 200;
+    top:150px;
+}
+h2{
+  color: #829460;
+}
+p{
+    font-weight: 200px;
+    font-size: larger;
+}
